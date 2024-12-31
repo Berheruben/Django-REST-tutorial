@@ -1,5 +1,5 @@
 
-Django 
+Django
 djangorestframework
 psycopg2
-
+drf-spectacular=0.28.0
