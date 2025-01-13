@@ -4,3 +4,4 @@ djangorestframework
 psycopg2
 drf-spectacular
 Pillow==11.1.0
+uwsgi
